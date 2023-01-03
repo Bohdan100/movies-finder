@@ -1,9 +1,8 @@
 import styled from 'styled-components';
 
 export const MainWrapper = styled.div`
-  display: inline-flex;
+  display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
   align-items: center;
 `;
 
